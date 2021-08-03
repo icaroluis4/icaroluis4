@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-<div class="tenor-gif-embed" img align="right" data-postid="5895712" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/fallout-distrust-falloutboy-duty-imustgo-gif-5895712">Fallout Distrust GIF</a> from <a href="https://tenor.com/search/fallout-gifs">Fallout GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img align="right" alt="Vault-Boy" width="50%" src="https://tenor.com/view/fallout-distrust-falloutboy-duty-imustgo-gif-5895712">
 
 <!---
 icaroluis4/icaroluis4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
