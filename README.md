@@ -1,4 +1,4 @@
-- 👋 Olá sou Icaro Moura , eu sou graduando em ciências da computação/Hi, I’m Icaro Moura , I'm an undergraduate student in the field of computer science
+- 👋 Olá, sou Icaro Moura , eu sou graduando em ciências da computação/Hi, I’m Icaro Moura , I'm an undergraduate student in the field of computer science
 - 👀 Estou interessado em trabalhar em projetos que envolvam python e machine learning/I’m interested in work on python projects using machine learning
 - 🌱 Atualmente estou estudando machine learning e deep learning/I’m currently learning machine learning and deep learning
 - 📫 Como entrar em contato comigo/How to reach me: linkedin: https://www.linkedin.com/in/icaroluis444/
