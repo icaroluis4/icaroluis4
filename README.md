@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
- <img align="right" alt="Vault-Boy" width="50%" src="https://tenor.com/view/fallout-distrust-falloutboy-duty-imustgo-gif-5895712">
+ <img align="right" alt="Vault-Boy"  src="https://media.giphy.com/media/CWcebXJhflE64/giphy.gif">
 
 <!---
 icaroluis4/icaroluis4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
