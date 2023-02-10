@@ -1,6 +1,5 @@
-- 👋 Olá, sou Icaro Moura , eu sou graduando em ciências da computação/Hi, I’m Icaro Moura , I'm an undergraduate student in the field of computer science
-- 👀 Estou interessado em trabalhar em projetos que envolvam React e React Native/I’m interested in work on projects with React and React Native
-- 🌱 Atualmente estou estudando machine learning, deep learning, React e React Native/I’m currently learning machine learning, deep learning,React and React Native
+- 👋 Olá, sou Icaro Moura , eu sou graduado em ciências da computação/Hi, I’m Icaro Moura , I'm an undergraduate student in the field of computer science
+- 👀 Estou interessado em trabalhar em projetos que envolvam Machine Learning e Data Science/I’m interested in work on projects with Machine Learning and Data Science
 - 📫 Como entrar em contato comigo/How to reach me: linkedin: https://www.linkedin.com/in/icaroluis444/
 
 <img align="left" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroluis4&layout=compact&langs_count=7&theme=dracula"/>
