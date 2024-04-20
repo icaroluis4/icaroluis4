@@ -1,4 +1,4 @@
-- 👋 Olá, sou Icaro Moura , eu sou graduado em ciências da computação/Hi, I’m Icaro Moura , I'm an undergraduate student in the field of computer science
+- 👋 Hi, I’m Icaro Moura , I'm Cloud Infrastructure Analyst and Data Scientist
  <!---- 👀 Estou interessado em trabalhar em projetos que envolvam Machine Learning e Data Science/I’m interested in work on projects with Machine Learning and Data Science --->
 - 📫 Como entrar em contato comigo/How to reach me: linkedin: https://www.linkedin.com/in/icaroluis444/
 
