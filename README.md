@@ -1,23 +1,47 @@
-- 👋 Hi, I’m Icaro Moura , I'm Cloud Infrastructure Analyst and Data Scientist
- <!---- 👀 Estou interessado em trabalhar em projetos que envolvam Machine Learning e Data Science/I’m interested in work on projects with Machine Learning and Data Science --->
-- 📫 Como entrar em contato comigo/How to reach me: linkedin: https://www.linkedin.com/in/icaroluis444/
+## 👋 Hi, I’m Icaro Moura
 
- <!--- <img align="left" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroluis4&layout=compact&langs_count=7&theme=dracula"/> --->
-<div style="position: relative;">
-  
-  <div style="position: absolute; top: 0; right: 0;">
-    <!-- Seus objetos aqui -->
-    <img align="right" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="right" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="right" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  </div>
-  <img style="position: right; top: 0; right: 0;" alt="Vault-Boy" src="https://media.giphy.com/media/CWcebXJhflE64/giphy.gif">
-</div>
+**AI Engineer & Cloud Architect**  
+Building **agentic systems, RAG pipelines and scalable AI infrastructure** on AWS & multi-cloud.
 
+---
 
-<!---
-icaroluis4/icaroluis4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 What I build
+- 🤖 **Autonomous & multi-agent systems** (LLMs that reason, plan and act)
+- 🧠 **RAG pipelines** with vector databases and retrieval optimization
+- ☁️ **Cloud-native AI infrastructure** (cost-aware, scalable, production-ready)
+- ⚙️ ML & AI systems designed with **engineering rigor**, not demos
+
+---
+
+### 🧩 Featured Projects
+🔹 **Agentic Marketplace**  
+Multi-agent economic simulation where autonomous AI agents buy, sell and negotiate with emergent behaviors.  
+`Python · Multi-Agent Systems · LLMs`
+
+🔹 **Agnostic LLM Layout**  
+Configurable interface template for LLM-powered apps with **multi-provider support** (AWS Bedrock, Azure OpenAI, Google Vertex AI).  
+`TypeScript · Cloud AI · LLM Abstraction`
+
+🔹 **Python Forecasts**  
+Time series forecasting experiments using deep learning and classical models.  
+`Python · Deep Learning · Time Series`
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Python, TypeScript, JavaScript  
+**AI / ML:** LLMs, RAG, Multi-Agent Systems, Deep Learning  
+**Cloud:** AWS, Azure, GCP  
+**Infra:** Docker, APIs, Cloud-native architectures  
+
+---
+
+### 📫 Let’s connect
+- 💼 LinkedIn: https://www.linkedin.com/in/icaroluis444/
+- 📧 Email: icaroluis4@gmail.com
+
+---
+
+<p align="right">
+  <img src="https://media.giphy.com/media/CWcebXJhflE64/giphy.gif" width="120"/>
+</p>
